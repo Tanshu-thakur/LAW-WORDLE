@@ -1,0 +1,1 @@
+const words = ['mandamus', 'certiorari', 'prohibition', 'quo warranto', 'habeas corpus', 'estoppel', 'consideration', 'contract', 'negligence', 'plaintiff'];

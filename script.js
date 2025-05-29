@@ -1,0 +1,1 @@
+console.log('Law Wordle script loaded');
